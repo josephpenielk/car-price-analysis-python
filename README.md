@@ -106,4 +106,3 @@ In conclusion, this analysis provides valuable insights into the factors influen
 
 Feel free to explore the cleaned dataset in the `cleaned_car_data.csv` file, and your feedback is always welcome!
 
-**Note:** The dataset used in this analysis was obtained from the Kaggle Walmart Sales Forecasting Competition.
