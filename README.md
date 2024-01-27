@@ -1,5 +1,8 @@
 # Car Price Analysis
 
+![Car Price](https://github.com/josephpenielk/car-price-analysis-python/assets/65491428/55d51ac7-a8a3-4bda-93d5-c1d55f00d204)
+
+
 ## Introduction
 
 Welcome to the Car Price Analysis project! In this project, I explore a dataset containing various attributes of cars, such as brand, manufacturing year, selling price, mileage, fuel type, seller type, transmission, and owner history. The primary goal is to conduct a comprehensive Feature Importance Analysis through Exploratory Data Analysis (EDA).
